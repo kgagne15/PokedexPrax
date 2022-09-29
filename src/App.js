@@ -1,7 +1,8 @@
+//Used solution for CSS help
+
 import './App.css';
 import Pokedex from "./Pokedex";
 import PokeList from './PokeList';
-import Pokecard from "./Pokecard"; 
 import "./Pokecard.css";
 import "./Pokedex.css";
 
@@ -15,3 +16,5 @@ function App() {
 }
 
 export default App;
+
+
