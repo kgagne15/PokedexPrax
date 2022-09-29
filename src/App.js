@@ -1,4 +1,4 @@
-//Used solution for CSS help
+//Used solution for CSS help and props.items help
 
 import './App.css';
 import Pokedex from "./Pokedex";
